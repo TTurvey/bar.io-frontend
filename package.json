@@ -16,7 +16,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "autosuggest-highlight": "^3.2.0",
-    "axios": "^0.24.0",
+    "axios": "^0.27.2",
     "fontawesome-react": "^2.0.0",
     "googleapis": "^92.0.0",
     "mq-scss": "^2.1.5",
